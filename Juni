@@ -1,0 +1,108 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="Globo SP FHD" tvg-logo="http://prinplay.com.br/server/Globo%20S%C3%A3o%20Paulo.png" group-title="Globo ",Globo SP FHD
+http://dns.acaidopara.net:8080/mariacwb/mae270720219/62169
+#EXTINF:-1 tvg-id="globo.sao.paulo.br" tvg-name="Globo SP HD" tvg-logo="http://prinplay.com.br/server/Globo%20S%C3%A3o%20Paulo.png" group-title="Globo ",Globo SP HD
+http://dns.acaidopara.net:8080/mariacwb/mae270720219/1948
+#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="Globo SP" tvg-logo="http://prinplay.com.br/server/Globo%20S%C3%A3o%20Paulo.png" group-title="Globo ",Globo SP
+http://dns.acaidopara.net:8080/mariacwb/mae270720219/1947
+#EXTINF:-1 tvg-id="globo.sao.paulo.br" tvg-name="Globo SP FHD²" tvg-logo="http://prinplay.com.br/server/Globo%20S%C3%A3o%20Paulo.png" group-title="Globo ",Globo SP FHD²
+http://dns.acaidopara.net:8080/mariacwb/mae270720219/24774
+#EXTINF:-1 tvg-id="globo.sao.paulo.br" tvg-name="Globo SP Alternativo HD" tvg-logo="http://prinplay.com.br/server/Globo%20S%C3%A3o%20Paulo.png" group-title="Globo ",Globo SP Alternativo HD
+http://dns.acaidopara.net:8080/mariacwb/mae270720219/2619
+#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="Globo SP Alternativo" tvg-logo="http://prinplay.com.br/server/Globo%20S%C3%A3o%20Paulo.png" group-title="Globo ",Globo SP Alternativo
+http://dns.acaidopara.net:8080/mariacwb/mae270720219/2620
+#EXTINF:-1 tvg-id="globo.rio.br" tvg-name="Globo RJ FHD" tvg-logo="http://prinplay.com.br/server/Globo%20Rio.png" group-title="Globo ",Globo RJ FHD
+http://dns.acaidopara.net:8080/mariacwb/mae270720219/1943
+#EXTINF:-1 tvg-id="globo.rio.br" tvg-name="Globo RJ HD" tvg-logo="http://prinplay.com.br/server/Globo%20Rio.png" group-title="Globo ",Globo RJ HD
+http://dns.acaidopara.net:8080/mariacwb/mae270720219/1942
+#EXTINF:-1 tvg-id="globo.rj.br" tvg-name="Globo RJ" tvg-logo="http://prinplay.com.br/server/Globo%20Rio.png" group-title="Globo ",Globo RJ
+http://dns.acaidopara.net:8080/mariacwb/mae270720219/1941
+#EXTINF:-1 tvg-id="globo.rio.br" tvg-name="Globo RJ FHD²" tvg-logo="http://prinplay.com.br/server/Globo%20Rio.png" group-title="Globo ",Globo RJ FHD²
+http://dns.acaidopara.net:8080/mariacwb/mae270720219/24773
+#EXTINF:-1 tvg-id="globo.rio.br" tvg-name="Globo RJ Alternativo HD" tvg-logo="http://prinplay.com.br/server/Globo%20Rio.png" group-title="Globo ",Globo RJ Alternativo HD
+http://dns.acaidopara.net:8080/mariacwb/mae270720219/2617
+#EXTINF:-1 tvg-id="globo.rj.br" tvg-name="Globo RJ Alternativo" tvg-logo="http://prinplay.com.br/server/Globo%20Rio.png" group-title="Globo ",Globo RJ Alternativo
+http://dns.acaidopara.net:8080/mariacwb/mae270720219/2618
+#EXTINF:-1 tvg-id="globo.belo.horizonte.br" tvg-name="Globo MG FHD" tvg-logo="http://prinplay.com.br/server/Globo%20Minas.png" group-title="Globo ",Globo MG FHD
+http://dns.acaidopara.net:8080/mariacwb/mae270720219/1981
+#EXTINF:-1 tvg-id="globo.belo.horizonte.br" tvg-name="Globo MG HD" tvg-logo="http://prinplay.com.br/server/Globo%20Minas.png" group-title="Globo ",Globo MG HD
+http://dns.acaidopara.net:8080/mariacwb/mae270720219/1933
+#EXTINF:-1 tvg-id="globo.belo.horizonte.br" tvg-name="Globo MG" tvg-logo="http://prinplay.com.br/server/Globo%20Minas.png" group-title="Globo ",Globo MG
+http://dns.acaidopara.net:8080/mariacwb/mae270720219/1932
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo MG FHD²" tvg-logo="http://prinplay.com.br/server/Globo%20Minas.png" group-title="Globo ",Globo MG FHD²
+http://dns.acaidopara.net:8080/mariacwb/mae270720219/24775
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo MG Alternativo HD" tvg-logo="http://prinplay.com.br/server/Globo%20Minas.png" group-title="Globo ",Globo MG Alternativo HD
+http://dns.acaidopara.net:8080/mariacwb/mae270720219/24776
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo MG Alternativo " tvg-logo="http://prinplay.com.br/server/Globo%20Minas.png" group-title="Globo ",Globo MG Alternativo 
+http://dns.acaidopara.net:8080/mariacwb/mae270720219/24777
+#EXTINF:-1 tvg-id="globo.nordeste.br" tvg-name="Globo Nordeste FHD" tvg-logo="http://prinplay.com.br/server/Globo%20Nordeste.png" group-title="Globo ",Globo Nordeste FHD
+http://dns.acaidopara.net:8080/mariacwb/mae270720219/1982
+#EXTINF:-1 tvg-id="globo.nordeste.br" tvg-name="Globo Nordeste HD" tvg-logo="http://prinplay.com.br/server/Globo%20Nordeste.png" group-title="Globo ",Globo Nordeste HD
+http://dns.acaidopara.net:8080/mariacwb/mae270720219/1935
+#EXTINF:-1 tvg-id="globo.nordeste.br" tvg-name="Globo Nordeste" tvg-logo="http://prinplay.com.br/server/Globo%20Nordeste.png" group-title="Globo ",Globo Nordeste
+http://dns.acaidopara.net:8080/mariacwb/mae270720219/1934
+#EXTINF:-1 tvg-id="tv.verdes.mares.br" tvg-name="Globo TV Verde Mares Fortaleza FHD" tvg-logo="http://prinplay.com.br/server/TV%20Verdes%20Mares.png" group-title="Globo ",Globo TV Verde Mares Fortaleza FHD
+http://dns.acaidopara.net:8080/mariacwb/mae270720219/39415
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="Globo TV Verdes Mares Fortaleza HD" tvg-logo="http://prinplay.com.br/server/TV%20Verdes%20Mares.png" group-title="Globo ",Globo TV Verdes Mares Fortaleza HD
+http://dns.acaidopara.net:8080/mariacwb/mae270720219/38904
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="Globo TV Verdes Mares Fortaleza " tvg-logo="http://prinplay.com.br/server/TV%20Verdes%20Mares.png" group-title="Globo ",Globo TV Verdes Mares Fortaleza 
+http://dns.acaidopara.net:8080/mariacwb/mae270720219/38903
+#EXTINF:-1 tvg-id="globo.bahia.br" tvg-name="Globo TV Bahia FHD" tvg-logo="http://prinplay.com.br/server/TV%20Bahia.png" group-title="Globo ",Globo TV Bahia FHD
+http://dns.acaidopara.net:8080/mariacwb/mae270720219/1986
+#EXTINF:-1 tvg-id="tv.bahia.br" tvg-name="Globo TV Bahia HD" tvg-logo="http://prinplay.com.br/server/TV%20Bahia.png" group-title="Globo ",Globo TV Bahia HD
+http://dns.acaidopara.net:8080/mariacwb/mae270720219/1953
+#EXTINF:-1 tvg-id="globo.bahia.br" tvg-name="Globo TV Bahia" tvg-logo="http://prinplay.com.br/server/TV%20Bahia.png" group-title="Globo ",Globo TV Bahia
+http://dns.acaidopara.net:8080/mariacwb/mae270720219/1952
+#EXTINF:-1 tvg-id="globo.anhanguera.br" tvg-name="Globo TV Anhanguera FHD" tvg-logo="http://prinplay.com.br/server/TV%20Anhanguera.png" group-title="Globo ",Globo TV Anhanguera FHD
+http://dns.acaidopara.net:8080/mariacwb/mae270720219/1985
+#EXTINF:-1 tvg-id="tv.anhanguera.br" tvg-name="Globo TV Anhanguera HD" tvg-logo="http://prinplay.com.br/server/TV%20Anhanguera.png" group-title="Globo ",Globo TV Anhanguera HD
+http://dns.acaidopara.net:8080/mariacwb/mae270720219/1951
+#EXTINF:-1 tvg-id="tv.anhanguera.br" tvg-name="Globo TV Anhanguera" tvg-logo="http://prinplay.com.br/server/TV%20Anhanguera.png" group-title="Globo ",Globo TV Anhanguera
+http://dns.acaidopara.net:8080/mariacwb/mae270720219/1950
+#EXTINF:-1 tvg-id="globo.recife.br" tvg-name="Globo Recife FHD " tvg-logo="http://prinplay.com.br/server/Globo.png" group-title="Globo ",Globo Recife FHD 
+http://dns.acaidopara.net:8080/mariacwb/mae270720219/61713
+#EXTINF:-1 tvg-id="globo.recife.br" tvg-name="Globo Recife HD " tvg-logo="http://prinplay.com.br/server/Globo.png" group-title="Globo ",Globo Recife HD 
+http://dns.acaidopara.net:8080/mariacwb/mae270720219/61714
+#EXTINF:-1 tvg-id="globo.brasilia.br" tvg-name="Globo Brasília FHD" tvg-logo="http://prinplay.com.br/server/Globo%20Bras%C3%ADlia.png" group-title="Globo ",Globo Brasília FHD
+http://dns.acaidopara.net:8080/mariacwb/mae270720219/1979
+#EXTINF:-1 tvg-id="globo.brasilia.br" tvg-name="Globo Brasília HD" tvg-logo="http://prinplay.com.br/server/Globo%20Bras%C3%ADlia.png" group-title="Globo ",Globo Brasília HD
+http://dns.acaidopara.net:8080/mariacwb/mae270720219/1924
+#EXTINF:-1 tvg-id="globo.brasilia.br" tvg-name="Globo Brasília" tvg-logo="http://prinplay.com.br/server/Globo%20Bras%C3%ADlia.png" group-title="Globo ",Globo Brasília
+http://dns.acaidopara.net:8080/mariacwb/mae270720219/2034
+#EXTINF:-1 tvg-id="globo.recife.br" tvg-name="Globo Recife " tvg-logo="http://prinplay.com.br/server/Globo.png" group-title="Globo ",Globo Recife 
+http://dns.acaidopara.net:8080/mariacwb/mae270720219/61715
+#EXTINF:-1 tvg-id="rbs.porto.alegre.br" tvg-name="Globo RBS Porto Alegre FHD " tvg-logo="http://prinplay.com.br/server/RBS%20TV.png" group-title="Globo ",Globo RBS Porto Alegre FHD 
+http://dns.acaidopara.net:8080/mariacwb/mae270720219/901491
+#EXTINF:-1 tvg-id="rbs.porto.alegre.br" tvg-name="Globo RBS Porto Alegre HD" tvg-logo="http://prinplay.com.br/server/RBS%20TV.png" group-title="Globo ",Globo RBS Porto Alegre HD
+http://dns.acaidopara.net:8080/mariacwb/mae270720219/901492
+#EXTINF:-1 tvg-id="rbs.rio.grande.br" tvg-name="Globo RBS Porto Alegre " tvg-logo="http://prinplay.com.br/server/RBS%20TV.png" group-title="Globo ",Globo RBS Porto Alegre 
+http://dns.acaidopara.net:8080/mariacwb/mae270720219/901493
+#EXTINF:-1 tvg-id="rpc.curitiba.br" tvg-name="Globo RPC Curitiba FHD" tvg-logo="http://prinplay.com.br/server/RPC%20TV%20Curitiba.png" group-title="Globo ",Globo RPC Curitiba FHD
+http://dns.acaidopara.net:8080/mariacwb/mae270720219/1946
+#EXTINF:-1 tvg-id="rpc.curitiba.br" tvg-name="Globo RPC Curitiba HD²" tvg-logo="http://prinplay.com.br/server/RPC%20TV%20Curitiba.png" group-title="Globo ",Globo RPC Curitiba HD²
+http://dns.acaidopara.net:8080/mariacwb/mae270720219/1945
+#EXTINF:-1 tvg-id="rpc.curitiba.br" tvg-name="Globo RPC Curitiba" tvg-logo="http://prinplay.com.br/server/RPC%20TV%20Curitiba.png" group-title="Globo ",Globo RPC Curitiba
+http://dns.acaidopara.net:8080/mariacwb/mae270720219/1944
+#EXTINF:-1 tvg-id="rpc.curitiba.br" tvg-name="Globo RPC Curitiba Alternativo HD" tvg-logo="http://prinplay.com.br/server/RPC%20TV%20Curitiba.png" group-title="Globo ",Globo RPC Curitiba Alternativo HD
+http://dns.acaidopara.net:8080/mariacwb/mae270720219/61306
+#EXTINF:-1 tvg-id="rpc.curitiba.br" tvg-name="Globo RPC Curitiba Alternativo" tvg-logo="http://prinplay.com.br/server/RPC%20TV%20Curitiba.png" group-title="Globo ",Globo RPC Curitiba Alternativo
+http://dns.acaidopara.net:8080/mariacwb/mae270720219/61307
+#EXTINF:-1 tvg-id="rpc.curitiba.br" tvg-name="Globo RPC Londrina FHD" tvg-logo="http://prinplay.com.br/server/RPC%20TV%20Curitiba.png" group-title="Globo ",Globo RPC Londrina FHD
+http://dns.acaidopara.net:8080/mariacwb/mae270720219/901280
+#EXTINF:-1 tvg-id="rpc.curitiba.br" tvg-name="Globo RPC Londrina HD" tvg-logo="http://prinplay.com.br/server/RPC%20TV%20Londrina.png" group-title="Globo ",Globo RPC Londrina HD
+http://dns.acaidopara.net:8080/mariacwb/mae270720219/902601
+#EXTINF:-1 tvg-id="rpc.curitiba.br" tvg-name="Globo RPC Londrina" tvg-logo="http://prinplay.com.br/server/RPC%20TV%20Londrina.png" group-title="Globo ",Globo RPC Londrina
+http://dns.acaidopara.net:8080/mariacwb/mae270720219/902604
+#EXTINF:-1 tvg-id="rpc.foz.do.iguacu.br" tvg-name="Globo RPC Foz do Iguaçu FHD" tvg-logo="http://prinplay.com.br/server/RPC%20TV%20Foz%20do%20Igua%C3%A7u.png" group-title="Globo ",Globo RPC Foz do Iguaçu FHD
+http://dns.acaidopara.net:8080/mariacwb/mae270720219/1968
+#EXTINF:-1 tvg-id="rpc.foz.do.iguacu.br" tvg-name="Globo RPC Foz do Iguaçu HD" tvg-logo="http://prinplay.com.br/server/RPC%20TV%20Foz%20do%20Igua%C3%A7u.png" group-title="Globo ",Globo RPC Foz do Iguaçu HD
+http://dns.acaidopara.net:8080/mariacwb/mae270720219/1969
+#EXTINF:-1 tvg-id="rpc.foz.do.iguacu.br" tvg-name="Globo RPC Foz do Iguaçu" tvg-logo="http://prinplay.com.br/server/RPC%20TV%20Foz%20do%20Igua%C3%A7u.png" group-title="Globo ",Globo RPC Foz do Iguaçu
+http://dns.acaidopara.net:8080/mariacwb/mae270720219/1967
+#EXTINF:-1 tvg-id="rpc.maringa.br" tvg-name="Globo RPC Maringa FHD" tvg-logo="http://prinplay.com.br/server/RPC%20TV%20Maring%C3%A1.png" group-title="Globo ",Globo RPC Maringa FHD
+http://dns.acaidopara.net:8080/mariacwb/mae270720219/12729
+#EXTINF:-1 tvg-id="rpc.maringa.br" tvg-name="Globo RPC Maringa HD" tvg-logo="http://prinplay.com.br/server/RPC%20TV%20Maring%C3%A1.png" group-title="Globo ",Globo RPC Maringa HD
+http://dns.acaidopara.net:8080/mariacwb/mae270720219/12730
+#EXTINF:-1 tvg-id="rpc.maringa.br" tvg-name="Globo RPC Maringa " tvg-logo="http://prinplay.com.br/server/RPC%20TV%20Maring%C3%A1.png" group-title="Globo ",Globo RPC Maringa 
+http://dns.acaidopara.net:8080/mariacwb/mae270720219/12731
+#EXT
